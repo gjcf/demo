@@ -1,0 +1,7 @@
+{"file":"cn_game.png","frames":{
+"cn_stone":{"x":242,"y":228,"w":106,"h":120,"offX":0,"offY":0,"sourceW":106,"sourceH":120},
+"cn_exchange":{"x":0,"y":180,"w":120,"h":112,"offX":1,"offY":0,"sourceW":122,"sourceH":112},
+"cn_herostake":{"x":349,"y":0,"w":120,"h":120,"offX":0,"offY":0,"sourceW":120,"sourceH":120},
+"cn_package":{"x":122,"y":180,"w":118,"h":112,"offX":0,"offY":0,"sourceW":120,"sourceH":112},
+"cn_show":{"x":0,"y":0,"w":347,"h":178,"offX":1,"offY":1,"sourceW":350,"sourceH":180},
+"cn_stake":{"x":349,"y":122,"w":131,"h":104,"offX":0,"offY":0,"sourceW":132,"sourceH":104}}}

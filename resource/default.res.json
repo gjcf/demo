@@ -1,0 +1,272 @@
+{
+	"groups": [
+		{
+			"keys": "button_down_png,button_up_png,checkbox_select_disabled_png,checkbox_select_down_png,checkbox_select_up_png,checkbox_unselect_png,selected_png,border_png,header_png,thumb_pb_png,track_pb_png,radiobutton_select_disabled_png,radiobutton_select_down_png,radiobutton_select_up_png,radiobutton_unselect_png,roundthumb_png,track_sb_png,thumb_png,track_png,tracklight_png,handle_png,off_png,on_png,egret_icon_png,bg_png,btnbg_png,cn_database_png,cn_game_json,cn_header_png,cn_ranklist_png,zh_heroman_png,zh_herowoman_png,zh_soldierman_png,zh_soldierwoman_png,zh_warrierman_png,zh_warrierwoman_png,database1_png,en_heroman_png,en_herowoman_png,en_soldierman_png,en_soldierwoman_png,en_warrierman_png,en_warrierwoman_png,game_json,header1_png,ranklist1_png,noticebg_png,rulebg_png,tipsbg_png,okbtn_png,rule_bg_png,rule_header_png",
+			"name": "preload"
+		}
+	],
+	"resources": [
+		{
+			"url": "assets/egret_icon.png",
+			"type": "image",
+			"name": "egret_icon_png"
+		},
+		{
+			"url": "assets/game/bg.png",
+			"type": "image",
+			"name": "bg_png"
+		},
+		{
+			"url": "assets/game/btnbg.png",
+			"type": "image",
+			"name": "btnbg_png"
+		},
+		{
+			"url": "assets/game/noticebg.png",
+			"type": "image",
+			"name": "noticebg_png"
+		},
+		{
+			"url": "assets/game/rulebg.png",
+			"type": "image",
+			"name": "rulebg_png"
+		},
+		{
+			"url": "assets/base/Button/button_down.png",
+			"type": "image",
+			"name": "button_down_png"
+		},
+		{
+			"url": "assets/base/Button/button_up.png",
+			"type": "image",
+			"name": "button_up_png"
+		},
+		{
+			"url": "assets/base/CheckBox/checkbox_select_disabled.png",
+			"type": "image",
+			"name": "checkbox_select_disabled_png"
+		},
+		{
+			"url": "assets/base/CheckBox/checkbox_select_down.png",
+			"type": "image",
+			"name": "checkbox_select_down_png"
+		},
+		{
+			"url": "assets/base/CheckBox/checkbox_select_up.png",
+			"type": "image",
+			"name": "checkbox_select_up_png"
+		},
+		{
+			"url": "assets/base/CheckBox/checkbox_unselect.png",
+			"type": "image",
+			"name": "checkbox_unselect_png"
+		},
+		{
+			"url": "assets/base/ItemRenderer/selected.png",
+			"type": "image",
+			"name": "selected_png"
+		},
+		{
+			"url": "assets/base/Panel/border.png",
+			"type": "image",
+			"name": "border_png"
+		},
+		{
+			"url": "assets/base/Panel/header.png",
+			"type": "image",
+			"name": "header_png"
+		},
+		{
+			"url": "assets/base/ProgressBar/thumb_pb.png",
+			"type": "image",
+			"name": "thumb_pb_png"
+		},
+		{
+			"url": "assets/base/ProgressBar/track_pb.png",
+			"type": "image",
+			"name": "track_pb_png"
+		},
+		{
+			"url": "assets/base/RadioButton/radiobutton_select_disabled.png",
+			"type": "image",
+			"name": "radiobutton_select_disabled_png"
+		},
+		{
+			"url": "assets/base/RadioButton/radiobutton_select_down.png",
+			"type": "image",
+			"name": "radiobutton_select_down_png"
+		},
+		{
+			"url": "assets/base/RadioButton/radiobutton_select_up.png",
+			"type": "image",
+			"name": "radiobutton_select_up_png"
+		},
+		{
+			"url": "assets/base/RadioButton/radiobutton_unselect.png",
+			"type": "image",
+			"name": "radiobutton_unselect_png"
+		},
+		{
+			"url": "assets/base/ScrollBar/roundthumb.png",
+			"type": "image",
+			"name": "roundthumb_png"
+		},
+		{
+			"url": "assets/base/ScrollBar/track_sb.png",
+			"type": "image",
+			"name": "track_sb_png"
+		},
+		{
+			"url": "assets/base/Slider/thumb.png",
+			"type": "image",
+			"name": "thumb_png"
+		},
+		{
+			"url": "assets/base/Slider/track.png",
+			"type": "image",
+			"name": "track_png"
+		},
+		{
+			"url": "assets/base/Slider/tracklight.png",
+			"type": "image",
+			"name": "tracklight_png"
+		},
+		{
+			"url": "assets/base/ToggleSwitch/handle.png",
+			"type": "image",
+			"name": "handle_png"
+		},
+		{
+			"url": "assets/base/ToggleSwitch/off.png",
+			"type": "image",
+			"name": "off_png"
+		},
+		{
+			"url": "assets/base/ToggleSwitch/on.png",
+			"type": "image",
+			"name": "on_png"
+		},
+		{
+			"url": "assets/game/cn/cn_database.png",
+			"type": "image",
+			"name": "cn_database_png"
+		},
+		{
+			"url": "assets/game/cn/cn_header.png",
+			"type": "image",
+			"name": "cn_header_png"
+		},
+		{
+			"url": "assets/game/cn/cn_ranklist.png",
+			"type": "image",
+			"name": "cn_ranklist_png"
+		},
+		{
+			"url": "assets/game/cn/zh_heroman.png",
+			"type": "image",
+			"name": "zh_heroman_png"
+		},
+		{
+			"url": "assets/game/cn/zh_herowoman.png",
+			"type": "image",
+			"name": "zh_herowoman_png"
+		},
+		{
+			"url": "assets/game/cn/zh_soldierman.png",
+			"type": "image",
+			"name": "zh_soldierman_png"
+		},
+		{
+			"url": "assets/game/cn/zh_soldierwoman.png",
+			"type": "image",
+			"name": "zh_soldierwoman_png"
+		},
+		{
+			"url": "assets/game/cn/zh_warrierman.png",
+			"type": "image",
+			"name": "zh_warrierman_png"
+		},
+		{
+			"url": "assets/game/cn/zh_warrierwoman.png",
+			"type": "image",
+			"name": "zh_warrierwoman_png"
+		},
+		{
+			"url": "assets/game/en/database1.png",
+			"type": "image",
+			"name": "database1_png"
+		},
+		{
+			"url": "assets/game/en/en_heroman.png",
+			"type": "image",
+			"name": "en_heroman_png"
+		},
+		{
+			"url": "assets/game/en/en_herowoman.png",
+			"type": "image",
+			"name": "en_herowoman_png"
+		},
+		{
+			"url": "assets/game/en/en_soldierman.png",
+			"type": "image",
+			"name": "en_soldierman_png"
+		},
+		{
+			"url": "assets/game/en/en_soldierwoman.png",
+			"type": "image",
+			"name": "en_soldierwoman_png"
+		},
+		{
+			"url": "assets/game/en/en_warrierman.png",
+			"type": "image",
+			"name": "en_warrierman_png"
+		},
+		{
+			"url": "assets/game/en/en_warrierwoman.png",
+			"type": "image",
+			"name": "en_warrierwoman_png"
+		},
+		{
+			"url": "assets/game/en/header1.png",
+			"type": "image",
+			"name": "header1_png"
+		},
+		{
+			"url": "assets/game/en/ranklist1.png",
+			"type": "image",
+			"name": "ranklist1_png"
+		},
+		{
+			"url": "assets/game/en/game.json",
+			"type": "sheet",
+			"name": "game_json",
+			"subkeys": "exchange1,herostake1,package1,show1,stake1,stone1"
+		},
+		{
+			"url": "assets/game/cn/cn_game.json",
+			"type": "sheet",
+			"name": "cn_game_json",
+			"subkeys": "cn_exchange,cn_herostake,cn_package,cn_show,cn_stake,cn_stone"
+		},
+		{
+			"name": "tipsbg_png",
+			"type": "image",
+			"url": "assets/game/tipsbg.png"
+		},
+		{
+			"name": "okbtn_png",
+			"type": "image",
+			"url": "assets/game/okbtn.png"
+		},
+		{
+			"name": "rule_bg_png",
+			"type": "image",
+			"url": "assets/game/rule_bg.png"
+		},
+		{
+			"name": "rule_header_png",
+			"type": "image",
+			"url": "assets/game/rule_header.png"
+		}
+	]
+}
